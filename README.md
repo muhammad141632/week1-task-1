@@ -28,3 +28,16 @@ Some possible future enhancements include:
 * Deployment on cloud platforms
 * Improved visual analytics and reporting
 * Integration with educational management systems
+
+## HOW TO RUN 
+* to run this project first copy this repo then in the terminal add
+* uv sync  
+* to start the frontend
+  cd frontend
+   npm install
+   npm run d
+
+  
+* 
+* 
+
